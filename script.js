@@ -1,6 +1,6 @@
 // Solicitar ao usuário que insira o nome e a XP do herói
 let nome = "pokemon";
-let xp = 7000;
+let xp = 4000;
 let nivel = "";
 
 if (xp < 1000){
